@@ -7,21 +7,36 @@
 </head>
 <body>
     <form>
-        <input type="text" placeholder="nombre">
+        <input type="text" placeholder="nombre" maxlength="50">
         <br>
-        <input type="text" placeholder="apellidos">
+        <input type="text" placeholder="apellidos" maxlength="50">
         <br> 
+        <input type="email" placeholder="correo electronico">
+        <br>
+        Sexo:
         <select name="sexo" id="sexo">
             <option>hombre</option>
             <option>mujer</option>
         </select>
         <br>
-        <input type="email" placeholder="correo electronico">
+        Poblacion:
+        <select name="poblacion">
+            <option>Bucaramanga</option>
+            <option>Giron</option>
+            <option>Floridablanca</option>
+            <option>Piedecuesta</option>
+        </select>
         <br>
         <label for="info">Deseo recibir información sobre novedades y oferta</label>
         <input type="checkbox">
-        
-
-     
+        <br>
+        <label for="inf">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos
+        <input type="checkbox">
+        <br>
+        Descripcion:
+        <br>
+        <textarea name="Descripcion"></textarea>
+        <br>
+        <input type="submit">
 </body>
 </html>
