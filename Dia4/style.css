@@ -237,3 +237,43 @@
     font-size: 30px;
     z-index: 2;
 }
+
+.flecha {
+    position: absolute;
+    z-index: 2;
+    top: 404%;
+    left: 15%;
+    width: 16px;
+}
+
+.iphone {
+    position: absolute;
+    z-index: 2;
+    top: 395%;
+    left: 20%;
+    width: 200px;
+}
+
+.mac {
+    position: absolute;
+    z-index: 2;
+    top: 385%;
+    left: 35%;
+    width: 350px;
+}
+
+.pc {
+    position: absolute;
+    z-index: 2;
+    top: 395%;
+    left: 62%;
+    width: 200px;
+}
+
+.flechad {
+    position: absolute;
+    z-index: 2;
+    top: 405%;
+    left: 80%;
+    width: 60px;
+}
