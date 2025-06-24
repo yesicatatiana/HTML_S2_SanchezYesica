@@ -5,7 +5,7 @@
 .img1 {
     position: absolute;
     width: 100%;
-    height: 446%;
+    height: 460%;
     left: 0;
     top: 0px;
 }
@@ -111,9 +111,9 @@
 .texto-2 {
     color: white;
     position: absolute;
-    top: 143%;
+    top: 142%;
     left: 15%;
-    font-size: 28px;
+    font-size: 30px;
     z-index: 2;
     text-align: center;
     font-family: "Roboto", sans-serif;
@@ -243,7 +243,7 @@
     color: white;
     position: absolute;
     top: 350%;
-    left: 11%;
+    left: 12%;
     font-size: 30px;
     z-index: 2;
     text-align: center;
@@ -252,8 +252,8 @@
 .flecha {
     position: absolute;
     z-index: 2;
-    top: 397%;
-    left: 13%;
+    top: 404%;
+    left: 15%;
     width: 16px;
 }
 
@@ -261,7 +261,7 @@
     position: absolute;
     z-index: 2;
     top: 387%;
-    left: 17%;
+    left: 20%;
     width: 200px;
 }
 
@@ -269,7 +269,7 @@
     position: absolute;
     z-index: 2;
     top: 375%;
-    left: 36%;
+    left: 37%;
     width: 350px;
 }
 
@@ -277,64 +277,14 @@
     position: absolute;
     z-index: 2;
     top: 387%;
-    left: 63%;
+    left: 62%;
     width: 200px;
 }
 
 .flechad {
     position: absolute;
     z-index: 2;
-    top: 397%;
-    left: 79%;
-    width: 58px;
-}
-
-.piepag1 {
-    color: white;
-    position: absolute;
-    top: 435%;
-    left: 30%;
-    font-size: 15px;
-    z-index: 2;
-    font-family: "Roboto", sans-serif;
-}
-
-.piepag2 {
-    color: white;
-    position: absolute;
-    top: 435%;
-    left: 39%;
-    font-size: 15px;
-    z-index: 2;
-    font-family: "Roboto", sans-serif;
-}
-
-.piepag3 {
-    color: white;
-    position: absolute;
-    top: 435%;
-    left: 47%;
-    font-size: 15px;
-    z-index: 2;
-    font-family: "Roboto", sans-serif;
-}
-
-.piepag4 {
-    color: white;
-    position: absolute;
-    top: 435%;
-    left: 58%;
-    font-size: 15px;
-    z-index: 2;
-    font-family: "Roboto", sans-serif;
-}
-
-.piepag5 {
-    color: white;
-    position: absolute;
-    top: 435%;
-    left: 63%;
-    font-size: 15px;
-    z-index: 2;
-    font-family: "Roboto", sans-serif;
+    top: 405%;
+    left: 80%;
+    width: 60px;
 }
